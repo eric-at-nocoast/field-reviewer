@@ -29,10 +29,11 @@
 
         let restrictedField = ''
 
+        // This calls the metadata of the app to grab the custom field id that you input into the settings for use later
         client.metadata().then(function (metadata) {
-          // Need Installation ID when saving later.
           restrictedField = `custom_field_` + metadata.settings["restricted_field"]
         }).then(function () {
+          // We then disable the field upon app load.
           client.invoke(`ticketFields:${restrictedField}.disable`)
         })
 
