@@ -9,8 +9,16 @@ This is a small [ZAF app](https://developer.zendesk.com/documentation/apps/) tha
 * Input the custom field id on installation in the "restricted_field" setting
 * You're all set!
 
-####Example
+#### Example showing field being disabled
 
 ![](https://github.com/eric-at-zd/field-reviewer/blob/master/part1.gif)
+
+<br>
+<br>
+<br>
+
+#### Example showing enabling the field
+
+
 
 ![](https://github.com/eric-at-zd/field-reviewer/blob/master/part2.gif)
