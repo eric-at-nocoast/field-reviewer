@@ -11,6 +11,6 @@ This is a small [ZAF app](https://developer.zendesk.com/documentation/apps/) tha
 
 ####Example
 
-![](https://github.com/eric-at-zd/field-reviewer/blob/eric-at-zd/main/part1.gif)
+![](https://github.com/eric-at-zd/field-reviewer/blob/eric-at-zd/master/part1.gif)
 
-![](https://github.com/eric-at-zd/field-reviewer/blob/eric-at-zd/main/part2.gif)
+![](https://github.com/eric-at-zd/field-reviewer/blob/eric-at-zd/master/part2.gif)
