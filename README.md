@@ -8,3 +8,9 @@ This is a small [ZAF app](https://developer.zendesk.com/documentation/apps/) tha
 * [Follow these instructions](https://developer.zendesk.com/documentation/apps/getting-started/uploading-and-installing-a-private-app/#uploading-and-installing-a-private-app-in-zendesk) to install the app into your Zendesk instance
 * Input the custom field id on installation in the "restricted_field" setting
 * You're all set!
+
+####Example
+
+![](https://github.com/eric-at-zd/field-reviewer/blob/eric-at-zd/main/part1.gif)
+
+![](https://github.com/eric-at-zd/field-reviewer/blob/eric-at-zd/main/part2.gif)
